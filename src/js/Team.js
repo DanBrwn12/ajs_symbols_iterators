@@ -1,5 +1,3 @@
-import Character from "./Character";
-
 export default class Team {
     constructor (...characters) {
         this.characters = characters;
